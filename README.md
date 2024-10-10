@@ -11,7 +11,7 @@ To install and run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/ArjumanJesmin/docker_project_server.git
    ```
 
 2. Navigate to the project directory:
@@ -48,3 +48,5 @@ To install and run this project locally, follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+- command ("docker build ." "docker images" "docker run -p 5000:5000 docker_container" )
